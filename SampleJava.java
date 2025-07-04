@@ -2,6 +2,6 @@ class SampleJava{
 	public static void main(String args[])
 	{
 		System.out.println("Hello World!!");
-		System.out.println("Welcome Jenkins!!");
+		system.out.println("Welcome Jenkins!!");
 	}
 }
