@@ -5,6 +5,6 @@ class SampleJava{
 		System.out.println("Welcome Jenkins!!");
 		System.out.println("Running Java Program in Jenkins!!");
 		System.out.println("Running Java Program in Jenkins with code changes commit!!");
-		//System.out.println("SCM Polling to monitor change commits in Git Hub Repository!!");
+		System.out.println("SCM Polling to monitor change commits in Git Hub Repository!!");
 	}
 }
